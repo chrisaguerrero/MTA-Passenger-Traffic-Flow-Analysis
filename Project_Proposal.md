@@ -1,7 +1,7 @@
 Client: WTWY International
 
 Overview:
-The New York City MTA website provides a detailed database of the amount of footraffic their train stations receive on a weekly basis. By accessing this data, we are able to compile a list of stations that have the highest amount of foot traffic in order for WTWY International to correctly target the largest amount of people to their event. The end result of our model would be to have a set list of suggestiong for WTWY International that could see a larger return in attendance for the gala event, as   well as to increase awareness behind the organization's mission.
+The New York City MTA website provides a detailed database of the amount of footraffic their train stations receive on a weekly basis. By accessing this data, we are able to compile a list of stations that have the highest amount of foot traffic in order for WTWY International to correctly target the largest amount of people to their event. The end result of our model would be to have a set list of suggestiong for WTWY International that could see a larger return in attendance for the gala event, as   well as to increase awareness behind the organization's mission- to have an impact on women in the tech industry.
 
 Data:
 The MTA turnstile database provides us with the names of each train station, the number of entrances and exits, and the time of foot traffic. The database is presented through CSV files on their website that can be organized into a SQL Database. By sifting through the database and organizing the data by stations with the highest entrances and at what time the highest amount of foot traffic occurs - we are able to suggest to WTWY International where the most effective locations would be to have their street teams stationed.
